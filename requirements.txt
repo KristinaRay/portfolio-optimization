@@ -1,0 +1,7 @@
+scipy
+yfinance
+bs4
+pandas 
+numpy
+requests
+argparse
