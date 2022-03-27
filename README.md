@@ -1,4 +1,12 @@
 # portfolio-optimization
+
+## Dependencies
+
+Install dependencies by running
+
+```
+pip install -r requirements.txt
+```
 ## Usage
 
 Download historical stock prices S&P500 companies
