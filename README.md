@@ -4,7 +4,7 @@
 Clone the project using the command line
 
 ```
-git clone git@github.com:KristinaRay/portfolio-optimization.git
+git clone https://github.com/KristinaRay/portfolio-optimization.git
 ```
 ```
 cd portfolio-optimization
