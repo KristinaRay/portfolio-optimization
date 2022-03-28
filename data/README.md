@@ -1,1 +1,1 @@
-Folder for storing the data
+Data storage folder
