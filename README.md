@@ -30,3 +30,7 @@ Run ```portfolio.py``` to get insights on optimal investment portfolio
 ```
 python portfolio.py
 ```
+
+## Output
+
+Asset allocation is saved in csv file  ```./result.csv```
